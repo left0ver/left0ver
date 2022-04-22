@@ -1,6 +1,6 @@
-​                                                       [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生)](https://git.io/typing-svg)
+​                                                                  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生)](https://git.io/typing-svg)                                                       
 
-- Hi,there! I am leftover👋🏻
+- Hi，there ! I am leftover👋🏻
 - 我来自赣州石城（中国地图上的一个小县城）🗺︎，县城虽小，但也有不一样的风景🌇！
 - 目前是井冈山大学2019级学生（有名的红色学校）（仅在红色学校之中🤫）.
 - 喜欢乒乓球🏓，旅游🌍✈️，跑步🏃，动漫，捣鼓小玩意🧸，二次元⚔️，coding 👨‍💻 and 一切美好的事物🌄.
@@ -15,6 +15,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=left0ver&theme=dark&hide_border=true)](https://git.io/streak-stats)<img src="https://stats.justsong.cn/api/csdn?id=m0_52537576&theme=dark">
 
 <!--START_SECTION:waka-->
+```text
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
@@ -22,7 +25,7 @@
 
    [![Visits Badge](https://badges.pufler.dev/visits/left0ver/left0ver)](https://badges.pufler.dev)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+​                                                                [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
