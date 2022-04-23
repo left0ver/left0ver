@@ -15,8 +15,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=left0ver&theme=dark&hide_border=true)](https://git.io/streak-stats)<img src="https://stats.justsong.cn/api/csdn?id=m0_52537576&theme=dark">
 
 <!--START_SECTION:waka-->
+
 ```text
-No activity tracked
+YAML       1 hr 44 mins    ██████████████████▓░░░░░░   74.53 %
+Markdown   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+JSON       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+EJS        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
