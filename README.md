@@ -1,4 +1,4 @@
-<img  src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生"/>
+<img align='center' src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生"/>
 
 - Hi，there ! I am leftover👋🏻
 - 我来自赣州石城（中国地图上的一个小县城）🗺︎，县城虽小，但也有不一样的风景🌇！
@@ -22,7 +22,7 @@
   
   </div>
 
-
+### Coding status last week ⌨️
 <!--START_SECTION:waka-->
 
 ```text
@@ -35,7 +35,12 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-##  touch with me 📨
+###  touch with me 📨
+[![Visits Badge](https://badges.pufler.dev/visits/left0ver/left0ver)](https://badges.pufler.dev)
+<a href='https://blog.csdn.net/m0_52537576?spm=1010.2135.3001.5343'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
+<a href='https://leftover.cn'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
+
+### 心灵鸡汤🥣
 
 <img align='right' src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight' />
 
