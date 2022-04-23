@@ -12,14 +12,13 @@
 ##
 
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=left0ver&theme=dark&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=left0ver&layout=compact&card_width=320" />
+   <img align="center" height='180px' src="https://github-readme-streak-stats.herokuapp.com/?user=left0ver&theme=dark&hide_border=true" /><img align=right" height='160px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=left0ver&layout=compact" />
   </div>
   
   
   <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=left0ver&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img align="right" src="https://stats.justsong.cn/api/csdn?id=m0_52537576&theme=dark" />
+  <img align="center" height='180px' src="https://github-readme-stats.vercel.app/api?username=left0ver&show_icons=true&theme=gruvbox&hide_border=true" /><img align="center" height='200px'  src="https://stats.justsong.cn/api/csdn?id=m0_52537576&theme=dark" />
+  
   </div>
 
 
