@@ -13,7 +13,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/left0ver/left0ver/output/github-contribution-grid-snake.svg)
 
----
 ##
 
  <div>
