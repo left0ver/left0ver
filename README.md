@@ -1,3 +1,4 @@
+
 <img align='center' src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生"/>
 
 - Hi，there ! I am leftover👋🏻
@@ -9,10 +10,14 @@
 - 喜欢记录一些学习路上遇到的困难以及解决的办法，希望能够帮助到别人，让别人少走弯路（不要像我一样傻乎乎地踩坑🕳︎🚶).
 - 愿我们都能不再为生活奔波，做喜欢的事.
 - 希望能够在这个世界留下点什么，尽管可能微不足道.
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/left0ver/left0ver/output/github-contribution-grid-snake.svg)
+
+---
 ##
 
  <div>
-   <img align="center" height='180px' src="https://github-readme-streak-stats.herokuapp.com/?user=left0ver&theme=dark&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=left0ver&layout=compact" />
+   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=47344140&nickname=leftover&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=left0ver&layout=compact" />
   
  </div>
   
