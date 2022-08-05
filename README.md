@@ -41,7 +41,7 @@ Other        32 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ###  touch with me 📨
-[![Visits Badge](https://badges.pufler.dev/visits/left0ver/left0ver)](https://badges.pufler.dev)
+![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=left0ver.left0ver)
 <a href='https://blog.csdn.net/m0_52537576?spm=1010.2135.3001.5343'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
 <a href='https://leftover.cn'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
 
