@@ -16,13 +16,13 @@
 ##
 
  <div>
-   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=47344140&nickname=leftover&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=left0ver&layout=compact" />
+   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=47344140&nickname=leftover&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=left0ver&layout=compact" />
   
  </div>
   
 ##  
   <div>
-  <img align="center" height='180px' src="https://github-readme-stats.vercel.app/api?username=left0ver&show_icons=true&theme=gruvbox&hide_border=true" /><img align="center" height='200px'  src="https://stats.justsong.cn/api/csdn?id=m0_52537576&theme=dark" />
+  <img align="center" height='180px' src="https://github-readme-stats.leftover.cn/api?username=left0ver&show_icons=true&theme=gruvbox&hide_border=true" /><img align="center" height='200px'  src="https://stats.justsong.cn/api/csdn?id=m0_52537576&theme=dark" />
   
   </div>
 
