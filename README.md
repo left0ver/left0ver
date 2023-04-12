@@ -30,8 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash   4 mins          █████████████████████████   99.58 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
