@@ -30,7 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+INI          5 mins          ██████████████████▒░░░░░░   72.83 %
+JSON         1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
