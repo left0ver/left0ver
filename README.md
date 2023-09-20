@@ -30,7 +30,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Prolog   0 secs          ████████████████████████▓   98.22 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
