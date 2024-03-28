@@ -30,10 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   22 mins         ███████████████▒░░░░░░░░░   61.99 %
-JSON       10 mins         ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-YAML       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-EJS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
