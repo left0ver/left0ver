@@ -36,7 +36,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ###  touch with me 📨
-![Visits Badge](https://visitor-badge.imlete.cn/?id=left0ver&label=visitors&type=pv&style=flat)
+![Visits Badge](https://visitor-badge.imlete.cn/?id=left0ver&label=visitors&type=uv&style=flat)
 <a href='https://blog.csdn.net/m0_52537576?spm=1010.2135.3001.5343'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
 <a href='https://leftover.cn'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
 
