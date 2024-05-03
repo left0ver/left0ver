@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              11 hrs 23 mins  ████████████████████████▓   99.00 %
-Text              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java              8 hrs 20 mins   ████████████████████████▓   99.01 %
+Text              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+IDEA_MODULE       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
