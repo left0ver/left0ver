@@ -11,9 +11,10 @@
 - 愿我们都能不再为生活奔波，做喜欢的事.
 - 希望能够在这个世界留下点什么，尽管可能微不足道.
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/left0ver/left0ver/output/github-contribution-grid-snake.svg)
+## My Skills
+![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,spring,docker,redis)
 
-##
+## Stats
 
  <div>
    <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=47344140&nickname=leftover&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=left0ver&layout=compact" />
@@ -37,12 +38,13 @@ XML           3 mins          █▒░░░░░░░░░░░░░░�
 JSON          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
+
 <!--END_SECTION:waka-->
 
 ###  touch with me 📨
 ![Visits Badge](https://visitor-badge.imlete.cn/?id=left0ver&label=visitors&type=uv&style=flat)
 <a href='https://blog.csdn.net/m0_52537576?spm=1010.2135.3001.5343'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
-<a href='https://leftover.cn'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
+<a href='https://blog.leftover.cn'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
 
 ### 心灵鸡汤🥣
 
