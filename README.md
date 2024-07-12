@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       5 hrs           ██████████▒░░░░░░░░░░░░░░   41.55 %
-Other                      3 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
-Java                       1 hr 47 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-textmate                   48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Nginx configuration file   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+YAML                       5 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   36.84 %
+Other                      3 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
+Java                       3 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+textmate                   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Nginx configuration file   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
