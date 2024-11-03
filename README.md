@@ -29,10 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML            13 mins         ████████████████████████▒   96.93 %
-INI             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JavaScript      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
