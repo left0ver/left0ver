@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Jupyter          2 hrs 33 mins   █████████████▒░░░░░░░░░░░   53.68 %
+Java             1 hr 59 mins    ██████████▒░░░░░░░░░░░░░░   41.95 %
+Python           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
