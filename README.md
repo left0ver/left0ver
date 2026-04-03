@@ -29,7 +29,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSV    4 mins                █████████████▒░░░░░░░░░░░   53.09 %
+Text   4 mins                ███████████▓░░░░░░░░░░░░░   46.91 %
 ```
 
 <!--END_SECTION:waka-->
