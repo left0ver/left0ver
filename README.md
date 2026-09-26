@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            17 hrs 48 mins        █████████▒░░░░░░░░░░░░░░░   37.37 %
-Bash              7 hrs 45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-TypeScript        5 hrs 58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Markdown          5 hrs 23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Protocol Buffer   1 hr 58 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Python            13 hrs 3 mins         ████████▒░░░░░░░░░░░░░░░░   33.69 %
+TypeScript        5 hrs 36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Bash              5 hrs 9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Markdown          4 hrs 40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Protocol Buffer   1 hr 58 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
 
 <!--END_SECTION:waka-->
